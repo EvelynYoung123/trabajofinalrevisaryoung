@@ -1,0 +1,7 @@
+.imagen-carousel {
+  width: 1000px; }
+
+.carousel-nosotros {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
